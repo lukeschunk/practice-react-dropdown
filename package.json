@@ -1,0 +1,30 @@
+{
+  "name": "react-starter-kit",
+  "version": "1.0.0",
+  "description": "This is the boilerplate code for following along with [The React Quick Start Guide](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html). It contains an index.html with React JS and the JSX transpiler. It's not intended for production purposes, just for quickly getting setup in order to learn React JS. It also contains a small amount of CSS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarsbe/react-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarsbe/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/jarsbe/react-starter-kit#readme",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-react": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  }
+}
